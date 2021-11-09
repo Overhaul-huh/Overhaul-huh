@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m2splashy
+- 
 - 👀 I’m interested in game-development, Hacking, Micro-Controller programming.
 - 🌱 I’m currently playing around with different linux distros
 
